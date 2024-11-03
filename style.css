@@ -1,3 +1,19 @@
 body {
   background-color: aliceblue;
 }
+
+h1{
+  text-align: center;
+  color:darkmagenta;
+  font-size: 40pt;
+}
+
+h2{
+  text-align: center;
+  color: darkmagenta;
+  font-size: 25pt;
+}
+
+.tg th{
+  font-weight: bold;
+}
